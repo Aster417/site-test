@@ -1,0 +1,41 @@
+html  {
+ size: 10px;
+ font-family: AR One Sans; /* коментарий, здесь дожен быть Google fonts*/
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #a79dab;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #f3f6bd;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #3e0061;
+  text-shadow: 2px 2px 2px rgb(105, 90, 90);
+}
+
+img {
+  width: 250px;
+  display: block;
+  margin: 0 auto;
+}
